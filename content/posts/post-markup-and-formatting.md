@@ -1,5 +1,5 @@
 ---
-title: Post Markup And Formatting
+title: Programmable Thermostat
 subtitle: All the Tags You Need to Make Clean and Expressive Posts
 category:
   - About Awake
