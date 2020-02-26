@@ -1,5 +1,5 @@
 ---
-title: Newsletter Signup
+title: Dryer Balls
 subtitle: Awake Integrates with Mailchimp for Easy Newsletter Management
 category:
   - Third Party Integrations
